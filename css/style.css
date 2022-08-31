@@ -1,6 +1,6 @@
 @charset "UTF-8";
 nav {
-  background: linear-gradient(45deg, aliceblue, transparent); }
+  background: linear-gradient(45deg, rgb(83, 157, 221), transparent); }
   nav header a .alineacion {
     width: 100%; }
 
